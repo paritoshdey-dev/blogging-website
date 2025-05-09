@@ -4,7 +4,7 @@ A fully functional, modern blogging platform where users can create, read, updat
 
 ## 🚀 Live Demo
 
-Check out the live MVP: [https://blogging-website-elwi5dkef-paritosh-deys-projects.vercel.app/](https://blogging-website-elwi5dkef-paritosh-deys-projects.vercel.app/)
+Check out the live MVP: [https://blogging-website-elwi5dkef-paritosh-deys-projects.vercel.app/](https://blogging-website-mauve-delta.vercel.app/)
 
 ## 📌 Features
 
